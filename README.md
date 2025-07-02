@@ -5,6 +5,11 @@ Autor: atrox39
 Tecnologías: Golang (Wails) + React
 
 ---
+Previsualización
+
+![Preview](/preview.png)
+
+---
 
 🧩 Descripción
 
