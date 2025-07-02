@@ -5,11 +5,6 @@ Autor: atrox39
 Tecnologías: Golang (Wails) + React
 
 ---
-Previsualización
-
-![Preview](/preview.png)
-
----
 
 🧩 Descripción
 
@@ -71,7 +66,7 @@ El ejecutable final se generará en la carpeta `build/bin`.
 
 📸 Capturas
 
-(Agrega aquí capturas de pantalla del proyecto replicando el diseño del mockup de Instagram)
+![Preview](/preview.png)
 
 ---
 
