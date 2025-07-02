@@ -1,0 +1,87 @@
+.menu {
+  max-width: 240px;
+  width: 100%;
+  background-color: var(--background-color);
+  height: 100%;
+  padding: 10px 16px 10px 16px;
+  align-items: center;
+}
+
+.menu-item {
+  cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px;
+  user-select: none;
+  margin-bottom: 8px;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.menu-item .dashboard-icon {
+  margin-right: 8px;
+}
+
+.dashboard-icon {
+  user-select: none;
+  width: 22px;
+  height: 22px;
+}
+
+.menu-item-alt {
+  justify-content: space-between;
+  border: 1px solid #666;
+  color: #666;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.menu-item-alt .menu-item-content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.menu-item-content .dashboard-icon {
+  margin-right: 8px !important;
+}
+
+.menu-item-alt .dashboard-icon {
+  margin-right: 0px;
+}
+
+.menu-item-alt .dashboard-icon:hover {
+  cursor: pointer;
+  color: #808080;
+}
+
+.menu-item-alt .dashboard-icon:active  {
+  cursor: pointer;
+  color: #333;
+}
+
+.menu-item-alt-2 {
+  border: 1px solid #999999;
+  color: #999999;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.menu-item-alt-2 .dashboard-icon {
+  margin-right: 8px;
+}
+
+.menu-item-alt-2:hover {
+  cursor: pointer;
+}
+
+.menu-item-alt-2:active {
+  cursor: pointer;
+}
+
+
+.menu-item-active {
+  background-color: green;
+  color: #FFFFFF;
+}
