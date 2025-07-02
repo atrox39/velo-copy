@@ -16,7 +16,7 @@ Este proyecto busca demostrar cómo se puede transformar un diseño compartido e
 
 🎯 Objetivos del Proyecto
 
-- Reproducir fielmente la UI de un diseño tipo Velo visto en Instagram del [mockupt](https://www.instagram.com/p/DLl2snPJHtV) el autor es Mahmudul Hasan.
+- Reproducir fielmente la UI de un diseño tipo Velo visto en Instagram del [mockup](https://www.instagram.com/p/DLl2snPJHtV) el autor es Mahmudul Hasan.
 - Integrar una arquitectura funcional en React sobre Wails.
 - Demostrar la capacidad de Wails para manejar aplicaciones de escritorio modernas.
 - Probar un flujo de trabajo eficiente para clonar diseños visuales en producción real.
